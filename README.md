@@ -1,2 +1,12 @@
-# ai-driven-essay-grading-system
-This project develops an Automated Essay Grading system that uses machine learning, NLP techniques, and BERT embeddings to evaluate student essays by analyzing linguistic features and predicting scores with high accuracy and reliability.
+# Automated Essay Grading System
+
+This repository contains an Automated Essay Grading system using machine learning, NLP, and BERT embeddings.
+
+## Structure
+- essay_grading.ipynb : Main notebook.
+- essay_grading.py : Script version placeholder.
+- requirements.txt : Dependencies.
+- data/ : Dataset instructions.
+- results/ : Output visualizations.
+- models/ : Saved models if any.
+
